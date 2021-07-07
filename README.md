@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**abhinavshrm05/abhinavshrm05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there! 👋
-
 - 🔭 I’m currently working on ... Application Security
 - 🌱 I’m currently learning about ... Python
 - 👯 I’m looking to collaborate with ... Bug bounty hunters
